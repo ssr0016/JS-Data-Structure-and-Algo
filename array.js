@@ -25,3 +25,5 @@ arr.shift()
 for(const item of arr){
     console.log(item)
 }
+
+
